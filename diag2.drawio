@@ -1,0 +1,47 @@
+<mxfile host="drawio-plugin" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" modified="2024-08-30T11:19:13.831Z" version="22.1.22" etag="qGMGfHZ-jRoLBLZ8JAh_" type="embed">
+  <diagram name="Page-1" id="b7Gk_bNDeWFmBbh089bi">
+    <mxGraphModel dx="660" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cx4aMy2B_LeO8EEixPeX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Cx4aMy2B_LeO8EEixPeX-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cx4aMy2B_LeO8EEixPeX-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cx4aMy2B_LeO8EEixPeX-2" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cx4aMy2B_LeO8EEixPeX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="370" />
+              <mxPoint x="425" y="370" />
+            </Array>
+            <mxPoint x="425" y="340" as="sourcePoint" />
+            <mxPoint x="425" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;x= int(777)&lt;br&gt;y=int(888)&lt;br&gt;z=int(999)&lt;br&gt;result =&amp;nbsp;&amp;nbsp;x*y+z&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="216" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="print(result)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="528" />
+              <mxPoint x="427" y="528" />
+            </Array>
+            <mxPoint x="427" y="498" as="sourcePoint" />
+            <mxPoint x="427" y="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
